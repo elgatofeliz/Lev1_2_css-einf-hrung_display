@@ -1,0 +1,25 @@
+body{
+    max-width: 1440px;
+    max-height: 900px;
+}
+
+section{
+    width: 100vw;
+    height: 100vh;
+    background: url(../img/Test-photo-blog-800-600.jpg) center/cover no-repeat;
+}
+
+ul{
+    list-style: none;
+    display: block;
+    text-align: right;
+    background: rgba(33, 33, 33, 0.5);
+    padding: 2vh;
+}
+
+li{
+    display: inline-block;
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+}
